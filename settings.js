@@ -11,7 +11,18 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
+global.alivemsg = `📤
+😁𝗛𝗜 ! 𝗜 𝗔𝗠 𝗢𝗡𝗟𝗜𝗡𝗘 𝗡𝗢𝗪👀.
+
+➤❍ 𝑶𝑾𝑵𝑬𝑹 :බිම්සර🌷
+➤❍ 𝑩𝑶𝑻 𝑵𝑨𝑴𝑬:බිම්සර🌼
+➤❍𝑶𝑾𝑵𝑬𝑵𝑬𝑹 𝑵𝑶:94777644708💖🌻
+
+🤹🏻‍♂️𝗜 𝗔𝗠 Kavidu 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗕𝗢𝗧 𝗔𝗡 𝗨𝗦𝗘𝗥 𝗕𝗢𝗧 𝗙𝗢𝗥 𝗪𝗔𝗛𝗦𝗧𝗔𝗣𝗣.
+
+🙊𝘏𝘈𝘝𝘌 𝘕𝘐𝘊𝘌 𝘋𝘈𝘠 !🌎💖
+
+😇
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -29,8 +40,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['+94777644708'] // owner number
+global.ownername = "😎bimsara" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -47,10 +58,10 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
+global.owner = ['+94777644708']
+global.ownertag = '+94777644708' //your tag number
+global.botname = 'bima' //ur bot name
+global.packname = "Bimsra" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
